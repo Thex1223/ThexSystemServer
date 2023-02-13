@@ -1,0 +1,14 @@
+{
+	"config": true,
+	"ip": "",
+	"port": 25565,
+	"diretory": "./data",
+	"msg": {
+		"1": "[INICIANDO WEB SERVER]",
+		"2": "Esse Web Server está configurado...",
+		"3": "Configurado em 'data.json'",
+		"4": "Certifique que está tudo em ordem nas configurações!",
+		"5": "Caso queira você pode editar o arquivo 'data.json', e suas configurações...",
+		"6": "Certifique que está tudo em ordem nas configurações!"
+	}
+}
